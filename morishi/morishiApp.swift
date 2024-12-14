@@ -11,7 +11,7 @@ import SwiftUI
 struct morishiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CounterApp() 
         }
     }
 }
